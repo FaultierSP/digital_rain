@@ -3,6 +3,9 @@ The only purpose of this program is to display the "digital rain" effect used in
 
 You can change the window and the size of the characters will adapt, or press F11 to toggle the full-screen mode.
 
+## Running
+Be sure to have the "assets" folder with the font in the folder where the executable is running. Then start. That's it.
+
 ## Nice to have / contribution
 In the future it would be nice to add some features like a blur or CRT effect. Feel free to contribute.
 
