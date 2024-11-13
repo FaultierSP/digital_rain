@@ -1,5 +1,7 @@
 # Digital rain
-The only purpose of this program is to display the "digital rain" effect used in the "Matrix" universe. The program uses the Bevy engine, which is probably an overkill for this purpose, but it was the only engine that came with all neat effects I needed right out of the box.
+![](digital_rain.gif)
+
+The only purpose of this program is to display the "digital rain" effect used in the "Matrix" universe. The program uses the Bevy engine, which is probably an overkill for this purpose, but it was the only engine that came with all neat effects I needed right out of the box, to get the same set and the appearance of characters that were used in the movies.
 
 You can change the window and the size of the characters will adapt, or press F11 to toggle the full-screen mode.
 
